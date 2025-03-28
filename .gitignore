@@ -1,0 +1,5 @@
+*.tar.gz
+*.xz
+*.csv
+data/
+__pycache__/

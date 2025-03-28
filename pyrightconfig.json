@@ -1,0 +1,6 @@
+{
+  "typeCheckingMode": "standard",
+  "reportMissingTypeStubs": false,
+  "reportAttributeAccessIssue": false,
+  "reportPossiblyUnboundVariable": false,
+}

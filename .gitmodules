@@ -1,0 +1,3 @@
+[submodule "vit_explain"]
+	path = vit_explain
+	url = https://github.com/hila-chefer/Transformer-Explainability
