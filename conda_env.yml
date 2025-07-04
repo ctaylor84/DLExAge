@@ -1,4 +1,4 @@
-name: octage
+name: dlexage
 channels:
   - defaults
   - conda-forge
